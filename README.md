@@ -21,7 +21,9 @@ This project detects whether a news article is Fake or Real using Natural Langua
 pip install -r requirements.txt
 streamlit run app.py
 
- 📸 App Preview
+
+
+## 📸 App Preview
 
 ![Fake News Detection App](screenshot.png)
 
